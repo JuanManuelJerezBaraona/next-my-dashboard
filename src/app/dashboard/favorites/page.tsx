@@ -1,9 +1,9 @@
 import { FavoritePokemons, PokemonGrid, PokemonsResponse, SimplePokemon } from "@/pokemons";
 import { IoHeartOutline } from "react-icons/io5";
 
-export const mtadata = {
+export const metadata = {
     title: 'Favoritos',
-    description: 'jejeje jajaja jijiji',
+    description: 'lorem',
 };
 
 export default async function PokemonsPage() {
