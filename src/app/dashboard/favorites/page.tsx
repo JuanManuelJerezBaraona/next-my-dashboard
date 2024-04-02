@@ -3,7 +3,7 @@ import { IoHeartOutline } from "react-icons/io5";
 
 export const metadata = {
     title: 'Favoritos',
-    description: 'lorem',
+    description: 'lorem.',
 };
 
 export default async function PokemonsPage() {
